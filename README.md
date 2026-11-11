@@ -26,4 +26,12 @@ Urban.Grocers
 •	Analicé la documentación y diseñé las pruebas de la API.
 https://github.com/angemari24-commits/qa-project-Urban-Grocers-app-es 
 
+🎓 Formación y certificaciones
+QA Engineer
+TripleTen
+ID de la credencial: 202601QAES0002454
+
+📫 Contacto
+www.linkedin.com/in/angelica-cardenas-coronado
+https://github.com/angemari24-commits
 
