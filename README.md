@@ -1,1 +1,5 @@
-#¡Hola! 👋 Soy Angelica-Cardenas
+#¡Hola! 👋 Soy Angelica Cardenas
+
+👩‍💻 Quality Assurance (QA) con experiencia en pruebas manuales, diseño de casos de prueba y gestión de defectos. Automatización de pruebas con Selenium, implementé pruebas de API utilizando Postman, preparé informes de calidad detallados y gestioné defectos en JIRA, realicé pruebas funcionales y de regresión en aplicaciones móviles mediante Android Studio. Con alta capacidad para analizar y documentar resultados de pruebas, generar informes detallados y optimizar procesos de calidad. También, soy ingeniera de alimentos e ingeniera química certificada como Auditor Interno con énfasis en Buenas Prácticas de Manufactura - BPM y la nueva versión de la norma de Requisitos para el Análisis de Peligros y Puntos de Control Críticos APPCC, NTC 5830:2019 con experiencia en el área de calidad; con habilidades, competencias y conocimientos para la investigación, análisis y trabajo en el laboratorio para la industria de alimentos. Soy proactiva, organizada, responsable, trabajo en equipo, con excelentes relaciones interpersonales con equipos de desarrollo y demás áreas que integran el funcionamiento de la empresa.
+
+
