@@ -12,7 +12,8 @@ Quality Assurance (QA) con experiencia en pruebas manuales, diseño de casos de 
 •	Bases de datos: Consultas SQL y manipulación de datos.
 •	Herramientas de diseño y debugging: DevTools, Figma, GitHub.
 
-📊 Urban.Routes
+📊 Proyectos destacados
+Urban.Routes
 •	Diseñé y ejecuté pruebas funcionales en múltiples entornos, documentando más de 20 casos de prueba.
 •	Probé las funcionalidades en diferentes entornos y versiones y redacté los informes de errores con JIRA
 •	Preparé la documentación de pruebas para probar el diseño y la lógica de la aplicación. 
